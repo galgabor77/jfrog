@@ -3,7 +3,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: my_github
-      path: bethoven/jfrog
+      path: galgabor77/jfrog
       branches:
         include: master
   - name: myBuildInfo
